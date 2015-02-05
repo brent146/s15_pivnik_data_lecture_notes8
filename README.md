@@ -16,4 +16,6 @@ Passing a configuration object that has some attributes of objects
 
 Main controller is fairly simple, loads previously created module and userService which gets injected into the model
 
+Condition that fails if a pre-existing login has been entered
 
+check.username is called often 
